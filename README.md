@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariamffatima" alt="mariamffatima" /></a> </p>
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **Data analytics, Data Science, AI and Machine Learning**
 
 - 📫 How to reach me **mariamfatima.connect@gmail.com**
 
