@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariamffatima" alt="mariamffatima" /></a> </p>
 
-- 🌱 I’m currently learning **Langchain and skilled in Data Analytics, Data Science, AI, and Machine Learning**
+- 🌱 I’m currently learning **Langchain** and skilled in **Data Analytics, Data Science, AI, and Machine Learning**
 - 📫 How to reach me **mariamfatima.connect@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
