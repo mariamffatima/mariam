@@ -2,9 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariamffatima" alt="mariamffatima" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analytics, Data Science, AI, and Machine Learning**
-- 💼 Currently I am polishing my skills and networking 
-- 🔭 I have previously interned as a **Data Analyst** at Mentorness, a **Data Science Intern** at CodSoft and a **Web Development Intern** at WeTeck
+- 🌱 I’m currently learning **Langchain and skilled in Data Analytics, Data Science, AI, and Machine Learning**
 - 📫 How to reach me **mariamfatima.connect@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
